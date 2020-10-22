@@ -1,3 +1,5 @@
 # Dont track these paths
 
 venv/
+
+.ipynb_checkpoints
